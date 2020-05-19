@@ -1,1 +1,0 @@
-web: gunicorn mysite_Palmieri.wsgi --log-file - 
